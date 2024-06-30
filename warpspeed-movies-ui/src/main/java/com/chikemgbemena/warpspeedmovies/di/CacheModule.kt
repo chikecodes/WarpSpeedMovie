@@ -27,7 +27,7 @@ object CacheModule {
 
     @Provides
     @Singleton
-    fun provideCharacterCache(movieCache: MovieCacheImp): MovieCache = movieCache
+    fun provideMovieCache(movieCache: MovieCacheImp): MovieCache = movieCache
 
     @Provides
     @Singleton
