@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_check_internet_connection">Please check your internet connection.</string>
+    <string name="error_oops_error_occurred">Oops! An error occurred.</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="enter_movie_title">Enter movie title</string>
+    <string name="search">Search</string>
+    <string name="movie_details">Movie Details</string>
+</resources>
